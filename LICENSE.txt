@@ -1,0 +1,6 @@
+POS Data Editor
+Copyright (c) 2026 Haitham Osama Abdelghaffar | iPharmEGY
+
+Proprietary internal/admin tool. All rights reserved.
+This software is provided for authorized administrative use only.
+Do not redistribute, resell, or modify without written permission from the owner.
